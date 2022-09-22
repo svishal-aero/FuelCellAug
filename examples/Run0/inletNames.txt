@@ -1,0 +1,11 @@
+Cell current density [A.m-2]
+Anode stoichiometry
+Cathode stoichiometry
+Anode channel inlet relative humidity
+Channel inlet temperature [K]
+Channel inlet-outlet temperature rise [K]
+Cathode outlet pressure [Pa]
+Anode outlet pressure [Pa]
+Cathode inlet pressure [Pa]
+Anode inlet pressure [Pa]
+Anode inlet nitrogen partial pressure [Pa]

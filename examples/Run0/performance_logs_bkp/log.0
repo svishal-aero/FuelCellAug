@@ -1,0 +1,982 @@
+
+----------------------------------------------------------------------------------------------------------------------
+
+  Physical model initialized
+
+----------------------------------------------------------------------------------------------------------------------
+
+Running Case 0001
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/1.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 9.196048e+00
+AugIter 001    AugResid 1.428137e-04    Objective 9.196253e+00
+Writing restart file "./beta_restart/1.dat"
+Objective Function = 9.196253e+00
+
+Running Case 0002
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/2.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 8.327309e+00
+AugIter 001    AugResid 2.467841e-04    Objective 8.327512e+00
+Writing restart file "./beta_restart/2.dat"
+Objective Function = 8.327512e+00
+
+Running Case 0003
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/3.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 7.144134e+00
+AugIter 001    AugResid 2.689547e-04    Objective 7.144213e+00
+Writing restart file "./beta_restart/3.dat"
+Objective Function = 7.144213e+00
+
+Running Case 0004
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/4.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 7.533735e+00
+AugIter 001    AugResid 3.043313e-04    Objective 7.533644e+00
+Writing restart file "./beta_restart/4.dat"
+Objective Function = 7.533644e+00
+
+Running Case 0005
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/5.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.809733e+00
+AugIter 001    AugResid 2.648942e-04    Objective 6.809665e+00
+Writing restart file "./beta_restart/5.dat"
+Objective Function = 6.809665e+00
+
+Running Case 0006
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/6.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.321284e+00
+AugIter 001    AugResid 2.579240e-04    Objective 6.321276e+00
+Writing restart file "./beta_restart/6.dat"
+Objective Function = 6.321276e+00
+
+Running Case 0007
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/7.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.628528e+00
+AugIter 001    AugResid 3.886947e-04    Objective 6.628532e+00
+Writing restart file "./beta_restart/7.dat"
+Objective Function = 6.628532e+00
+
+Running Case 0008
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/8.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.088895e+00
+AugIter 001    AugResid 4.089133e-04    Objective 6.089030e+00
+Writing restart file "./beta_restart/8.dat"
+Objective Function = 6.089030e+00
+
+Running Case 0009
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/9.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.215928e+00
+AugIter 001    AugResid 3.961637e-04    Objective 6.216073e+00
+Writing restart file "./beta_restart/9.dat"
+Objective Function = 6.216073e+00
+
+Running Case 0010
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/10.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.213464e+00
+AugIter 001    AugResid 3.826652e-04    Objective 6.213641e+00
+Writing restart file "./beta_restart/10.dat"
+Objective Function = 6.213641e+00
+
+Running Case 0011
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/11.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 8.868922e+00
+AugIter 001    AugResid 4.040832e-04    Objective 8.868895e+00
+Writing restart file "./beta_restart/11.dat"
+Objective Function = 8.868895e+00
+
+Running Case 0012
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/12.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 8.027244e+00
+AugIter 001    AugResid 3.882769e-04    Objective 8.027268e+00
+Writing restart file "./beta_restart/12.dat"
+Objective Function = 8.027268e+00
+
+Running Case 0013
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/13.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 7.477623e+00
+AugIter 001    AugResid 3.982211e-04    Objective 7.477622e+00
+Writing restart file "./beta_restart/13.dat"
+Objective Function = 7.477622e+00
+
+Running Case 0014
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/14.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 7.010432e+00
+AugIter 001    AugResid 3.877843e-04    Objective 7.010360e+00
+Writing restart file "./beta_restart/14.dat"
+Objective Function = 7.010360e+00
+
+Running Case 0015
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/15.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.818140e+00
+AugIter 001    AugResid 3.676198e-04    Objective 5.818082e+00
+Writing restart file "./beta_restart/15.dat"
+Objective Function = 5.818082e+00
+
+Running Case 0016
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/16.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.190679e+00
+AugIter 001    AugResid 3.668590e-04    Objective 6.190526e+00
+Writing restart file "./beta_restart/16.dat"
+Objective Function = 6.190526e+00
+
+Running Case 0017
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/17.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.523342e+00
+AugIter 001    AugResid 3.336412e-04    Objective 5.523216e+00
+Writing restart file "./beta_restart/17.dat"
+Objective Function = 5.523216e+00
+
+Running Case 0018
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/18.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 4.951103e+00
+AugIter 001    AugResid 3.377354e-04    Objective 4.951009e+00
+Writing restart file "./beta_restart/18.dat"
+Objective Function = 4.951009e+00
+
+Running Case 0019
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/19.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 4.830990e+00
+AugIter 001    AugResid 3.349320e-04    Objective 4.830906e+00
+Writing restart file "./beta_restart/19.dat"
+Objective Function = 4.830906e+00
+
+Running Case 0020
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/20.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 4.236275e+00
+AugIter 001    AugResid 2.814281e-04    Objective 4.236496e+00
+Writing restart file "./beta_restart/20.dat"
+Objective Function = 4.236496e+00
+
+Running Case 0021
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/21.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 8.283213e+00
+AugIter 001    AugResid 3.253804e-04    Objective 8.283024e+00
+Writing restart file "./beta_restart/21.dat"
+Objective Function = 8.283024e+00
+
+Running Case 0022
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/22.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 7.672020e+00
+AugIter 001    AugResid 3.280132e-04    Objective 7.671855e+00
+Writing restart file "./beta_restart/22.dat"
+Objective Function = 7.671855e+00
+
+Running Case 0023
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/23.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 7.183276e+00
+AugIter 001    AugResid 3.229762e-04    Objective 7.183103e+00
+Writing restart file "./beta_restart/23.dat"
+Objective Function = 7.183103e+00
+
+Running Case 0024
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/24.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.772249e+00
+AugIter 001    AugResid 4.591414e-04    Objective 6.771997e+00
+Writing restart file "./beta_restart/24.dat"
+Objective Function = 6.771997e+00
+
+Running Case 0025
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/25.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.479151e+00
+AugIter 001    AugResid 4.485620e-04    Objective 6.478901e+00
+Writing restart file "./beta_restart/25.dat"
+Objective Function = 6.478901e+00
+
+Running Case 0026
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/26.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.135548e+00
+AugIter 001    AugResid 4.442919e-04    Objective 6.135307e+00
+Writing restart file "./beta_restart/26.dat"
+Objective Function = 6.135307e+00
+
+Running Case 0027
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/27.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.768074e+00
+AugIter 001    AugResid 4.398505e-04    Objective 5.767815e+00
+Writing restart file "./beta_restart/27.dat"
+Objective Function = 5.767815e+00
+
+Running Case 0028
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/28.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.579164e+00
+AugIter 001    AugResid 4.466109e-04    Objective 5.578917e+00
+Writing restart file "./beta_restart/28.dat"
+Objective Function = 5.578917e+00
+
+Running Case 0029
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/29.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.314294e+00
+AugIter 001    AugResid 4.335014e-04    Objective 5.314049e+00
+Writing restart file "./beta_restart/29.dat"
+Objective Function = 5.314049e+00
+
+Running Case 0030
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/30.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.396651e+00
+AugIter 001    AugResid 4.173950e-04    Objective 5.396432e+00
+Writing restart file "./beta_restart/30.dat"
+Objective Function = 5.396432e+00
+
+Running Case 0031
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/31.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 7.642173e+00
+AugIter 001    AugResid 3.630767e-04    Objective 7.641947e+00
+Writing restart file "./beta_restart/31.dat"
+Objective Function = 7.641947e+00
+
+Running Case 0032
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/32.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 7.413650e+00
+AugIter 001    AugResid 4.203497e-04    Objective 7.413373e+00
+Writing restart file "./beta_restart/32.dat"
+Objective Function = 7.413373e+00
+
+Running Case 0033
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/33.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.968141e+00
+AugIter 001    AugResid 4.051798e-04    Objective 6.967879e+00
+Writing restart file "./beta_restart/33.dat"
+Objective Function = 6.967879e+00
+
+Running Case 0034
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/34.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.644221e+00
+AugIter 001    AugResid 4.097092e-04    Objective 6.643990e+00
+Writing restart file "./beta_restart/34.dat"
+Objective Function = 6.643990e+00
+
+Running Case 0035
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/35.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.188891e+00
+AugIter 001    AugResid 4.006353e-04    Objective 6.188654e+00
+Writing restart file "./beta_restart/35.dat"
+Objective Function = 6.188654e+00
+
+Running Case 0036
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/36.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.942547e+00
+AugIter 001    AugResid 3.857616e-04    Objective 5.942254e+00
+Writing restart file "./beta_restart/36.dat"
+Objective Function = 5.942254e+00
+
+Running Case 0037
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/37.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.703095e+00
+AugIter 001    AugResid 4.023648e-04    Objective 5.702864e+00
+Writing restart file "./beta_restart/37.dat"
+Objective Function = 5.702864e+00
+
+Running Case 0038
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/38.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.412627e+00
+AugIter 001    AugResid 3.846636e-04    Objective 5.412413e+00
+Writing restart file "./beta_restart/38.dat"
+Objective Function = 5.412413e+00
+
+Running Case 0039
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/39.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.208793e+00
+AugIter 001    AugResid 4.009735e-04    Objective 5.208569e+00
+Writing restart file "./beta_restart/39.dat"
+Objective Function = 5.208569e+00
+
+Running Case 0040
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/40.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.102281e+00
+AugIter 001    AugResid 1.522061e-05    Objective 5.102293e+00
+Writing restart file "./beta_restart/40.dat"
+Objective Function = 5.102293e+00
+
+Running Case 0041
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/41.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 7.424731e+00
+AugIter 001    AugResid 3.636477e-04    Objective 7.424523e+00
+Writing restart file "./beta_restart/41.dat"
+Objective Function = 7.424523e+00
+
+Running Case 0042
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/42.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.983811e+00
+AugIter 001    AugResid 3.908482e-04    Objective 6.983606e+00
+Writing restart file "./beta_restart/42.dat"
+Objective Function = 6.983606e+00
+
+Running Case 0043
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/43.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.498377e+00
+AugIter 001    AugResid 3.158891e-04    Objective 6.498191e+00
+Writing restart file "./beta_restart/43.dat"
+Objective Function = 6.498191e+00
+
+Running Case 0044
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/44.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.307691e+00
+AugIter 001    AugResid 3.311549e-04    Objective 6.307495e+00
+Writing restart file "./beta_restart/44.dat"
+Objective Function = 6.307495e+00
+
+Running Case 0045
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/45.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.786032e+00
+AugIter 001    AugResid 4.353445e-04    Objective 5.785800e+00
+Writing restart file "./beta_restart/45.dat"
+Objective Function = 5.785800e+00
+
+Running Case 0046
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/46.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.870516e+00
+AugIter 001    AugResid 3.243687e-04    Objective 5.870331e+00
+Writing restart file "./beta_restart/46.dat"
+Objective Function = 5.870331e+00
+
+Running Case 0047
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/47.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.626760e+00
+AugIter 001    AugResid 3.430394e-04    Objective 5.626578e+00
+Writing restart file "./beta_restart/47.dat"
+Objective Function = 5.626578e+00
+
+Running Case 0048
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/48.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.500979e+00
+AugIter 001    AugResid 3.466394e-04    Objective 5.500788e+00
+Writing restart file "./beta_restart/48.dat"
+Objective Function = 5.500788e+00
+
+Running Case 0049
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/49.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.079092e+00
+AugIter 001    AugResid 3.439152e-04    Objective 5.078911e+00
+Writing restart file "./beta_restart/49.dat"
+Objective Function = 5.078911e+00
+
+Running Case 0050
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/50.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.134518e+00
+AugIter 001    AugResid 2.280360e-04    Objective 5.134420e+00
+Writing restart file "./beta_restart/50.dat"
+Objective Function = 5.134420e+00
+
+Running Case 0051
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/51.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.232926e+01
+AugIter 001    AugResid 2.985803e-04    Objective 1.232932e+01
+Writing restart file "./beta_restart/51.dat"
+Objective Function = 1.232932e+01
+
+Running Case 0052
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/52.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.258217e+01
+AugIter 001    AugResid 4.384945e-04    Objective 1.258208e+01
+Writing restart file "./beta_restart/52.dat"
+Objective Function = 1.258208e+01
+
+Running Case 0053
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/53.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.228655e+01
+AugIter 001    AugResid 3.742805e-04    Objective 1.228648e+01
+Writing restart file "./beta_restart/53.dat"
+Objective Function = 1.228648e+01
+
+Running Case 0054
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/54.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.193940e+01
+AugIter 001    AugResid 3.687621e-04    Objective 1.193934e+01
+Writing restart file "./beta_restart/54.dat"
+Objective Function = 1.193934e+01
+
+Running Case 0055
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/55.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.124423e+01
+AugIter 001    AugResid 4.766162e-04    Objective 1.124412e+01
+Writing restart file "./beta_restart/55.dat"
+Objective Function = 1.124412e+01
+
+Running Case 0056
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/56.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.166530e+01
+AugIter 001    AugResid 4.688748e-04    Objective 1.166520e+01
+Writing restart file "./beta_restart/56.dat"
+Objective Function = 1.166520e+01
+
+Running Case 0057
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/57.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.133313e+01
+AugIter 001    AugResid 4.399503e-04    Objective 1.133305e+01
+Writing restart file "./beta_restart/57.dat"
+Objective Function = 1.133305e+01
+
+Running Case 0058
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/58.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.104800e+01
+AugIter 001    AugResid 4.063444e-04    Objective 1.104788e+01
+Writing restart file "./beta_restart/58.dat"
+Objective Function = 1.104788e+01
+
+Running Case 0059
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/59.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.026449e+01
+AugIter 001    AugResid 4.117838e-04    Objective 1.026443e+01
+Writing restart file "./beta_restart/59.dat"
+Objective Function = 1.026443e+01
+
+Running Case 0060
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/60.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.085174e+01
+AugIter 001    AugResid 3.343304e-04    Objective 1.085183e+01
+Writing restart file "./beta_restart/60.dat"
+Objective Function = 1.085183e+01
+
+Running Case 0061
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/61.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.337064e+01
+AugIter 001    AugResid 3.916560e-04    Objective 1.337069e+01
+Writing restart file "./beta_restart/61.dat"
+Objective Function = 1.337069e+01
+
+Running Case 0062
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/62.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.224956e+01
+AugIter 001    AugResid 3.896289e-04    Objective 1.224937e+01
+Writing restart file "./beta_restart/62.dat"
+Objective Function = 1.224937e+01
+
+Running Case 0063
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/63.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.212856e+01
+AugIter 001    AugResid 3.590415e-04    Objective 1.212834e+01
+Writing restart file "./beta_restart/63.dat"
+Objective Function = 1.212834e+01
+
+Running Case 0064
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/64.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.149811e+01
+AugIter 001    AugResid 3.424059e-04    Objective 1.149787e+01
+Writing restart file "./beta_restart/64.dat"
+Objective Function = 1.149787e+01
+
+Running Case 0065
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/65.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.118254e+01
+AugIter 001    AugResid 3.331742e-04    Objective 1.118232e+01
+Writing restart file "./beta_restart/65.dat"
+Objective Function = 1.118232e+01
+
+Running Case 0066
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/66.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.079506e+01
+AugIter 001    AugResid 3.192549e-04    Objective 1.079484e+01
+Writing restart file "./beta_restart/66.dat"
+Objective Function = 1.079484e+01
+
+Running Case 0067
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/67.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.068209e+01
+AugIter 001    AugResid 3.232395e-04    Objective 1.068186e+01
+Writing restart file "./beta_restart/67.dat"
+Objective Function = 1.068186e+01
+
+Running Case 0068
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/68.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.055389e+01
+AugIter 001    AugResid 3.135682e-04    Objective 1.055367e+01
+Writing restart file "./beta_restart/68.dat"
+Objective Function = 1.055367e+01
+
+Running Case 0069
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/69.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.036232e+01
+AugIter 001    AugResid 3.165233e-04    Objective 1.036208e+01
+Writing restart file "./beta_restart/69.dat"
+Objective Function = 1.036208e+01
+
+Running Case 0070
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/70.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.025439e+01
+AugIter 001    AugResid 3.243022e-04    Objective 1.025419e+01
+Writing restart file "./beta_restart/70.dat"
+Objective Function = 1.025419e+01
+
+Running Case 0071
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/71.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.158750e+01
+AugIter 001    AugResid 4.051746e-04    Objective 1.158771e+01
+Writing restart file "./beta_restart/71.dat"
+Objective Function = 1.158771e+01
+
+Running Case 0072
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/72.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.094085e+01
+AugIter 001    AugResid 3.989399e-04    Objective 1.094075e+01
+Writing restart file "./beta_restart/72.dat"
+Objective Function = 1.094075e+01
+
+Running Case 0073
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/73.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.032940e+01
+AugIter 001    AugResid 3.931359e-04    Objective 1.032907e+01
+Writing restart file "./beta_restart/73.dat"
+Objective Function = 1.032907e+01
+
+Running Case 0074
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/74.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.031908e+01
+AugIter 001    AugResid 4.665332e-04    Objective 1.031873e+01
+Writing restart file "./beta_restart/74.dat"
+Objective Function = 1.031873e+01
+
+Running Case 0075
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/75.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.002397e+01
+AugIter 001    AugResid 3.746898e-04    Objective 1.002374e+01
+Writing restart file "./beta_restart/75.dat"
+Objective Function = 1.002374e+01
+
+Running Case 0076
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/76.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 9.430004e+00
+AugIter 001    AugResid 4.058411e-04    Objective 9.429799e+00
+Writing restart file "./beta_restart/76.dat"
+Objective Function = 9.429799e+00
+
+Running Case 0077
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/77.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 8.949614e+00
+AugIter 001    AugResid 4.261085e-04    Objective 8.949458e+00
+Writing restart file "./beta_restart/77.dat"
+Objective Function = 8.949458e+00
+
+Running Case 0078
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/78.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 9.488048e+00
+AugIter 001    AugResid 4.406540e-04    Objective 9.487892e+00
+Writing restart file "./beta_restart/78.dat"
+Objective Function = 9.487892e+00
+
+Running Case 0079
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/79.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 9.150715e+00
+AugIter 001    AugResid 3.086851e-04    Objective 9.150588e+00
+Writing restart file "./beta_restart/79.dat"
+Objective Function = 9.150588e+00
+
+Running Case 0080
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/80.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 8.594868e+00
+AugIter 001    AugResid 1.763922e-04    Objective 8.595063e+00
+Writing restart file "./beta_restart/80.dat"
+Objective Function = 8.595063e+00
+
+Running Case 0081
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/81.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.255187e+01
+AugIter 001    AugResid 4.546553e-04    Objective 1.255217e+01
+Writing restart file "./beta_restart/81.dat"
+Objective Function = 1.255217e+01
+
+Running Case 0082
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/82.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.206173e+01
+AugIter 001    AugResid 4.094909e-04    Objective 1.206185e+01
+Writing restart file "./beta_restart/82.dat"
+Objective Function = 1.206185e+01
+
+Running Case 0083
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/83.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.061553e+01
+AugIter 001    AugResid 4.103911e-04    Objective 1.061552e+01
+Writing restart file "./beta_restart/83.dat"
+Objective Function = 1.061552e+01
+
+Running Case 0084
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/84.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.101949e+01
+AugIter 001    AugResid 4.375784e-04    Objective 1.101940e+01
+Writing restart file "./beta_restart/84.dat"
+Objective Function = 1.101940e+01
+
+Running Case 0085
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/85.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.086727e+01
+AugIter 001    AugResid 3.772493e-04    Objective 1.086714e+01
+Writing restart file "./beta_restart/85.dat"
+Objective Function = 1.086714e+01
+
+Running Case 0086
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/86.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.011362e+01
+AugIter 001    AugResid 3.500717e-04    Objective 1.011351e+01
+Writing restart file "./beta_restart/86.dat"
+Objective Function = 1.011351e+01
+
+Running Case 0087
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/87.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 9.787261e+00
+AugIter 001    AugResid 3.446762e-04    Objective 9.787181e+00
+Writing restart file "./beta_restart/87.dat"
+Objective Function = 9.787181e+00
+
+Running Case 0088
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/88.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 9.821873e+00
+AugIter 001    AugResid 3.549332e-04    Objective 9.821834e+00
+Writing restart file "./beta_restart/88.dat"
+Objective Function = 9.821834e+00
+
+Running Case 0089
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/89.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 9.074211e+00
+AugIter 001    AugResid 5.558865e-04    Objective 9.074233e+00
+Writing restart file "./beta_restart/89.dat"
+Objective Function = 9.074233e+00
+
+Running Case 0090
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/90.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 8.573899e+00
+AugIter 001    AugResid 5.663635e-04    Objective 8.573949e+00
+Writing restart file "./beta_restart/90.dat"
+Objective Function = 8.573949e+00
+
+Running Case 0091
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/91.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.244845e+01
+AugIter 001    AugResid 6.608720e-04    Objective 1.244881e+01
+Writing restart file "./beta_restart/91.dat"
+Objective Function = 1.244881e+01
+
+Running Case 0092
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/92.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.198009e+01
+AugIter 001    AugResid 6.429571e-04    Objective 1.198026e+01
+Writing restart file "./beta_restart/92.dat"
+Objective Function = 1.198026e+01
+
+Running Case 0093
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/93.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.164597e+01
+AugIter 001    AugResid 4.714324e-04    Objective 1.164596e+01
+Writing restart file "./beta_restart/93.dat"
+Objective Function = 1.164596e+01
+
+Running Case 0094
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/94.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.136291e+01
+AugIter 001    AugResid 5.693129e-04    Objective 1.136277e+01
+Writing restart file "./beta_restart/94.dat"
+Objective Function = 1.136277e+01
+
+Running Case 0095
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/95.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.122771e+01
+AugIter 001    AugResid 5.157797e-04    Objective 1.122757e+01
+Writing restart file "./beta_restart/95.dat"
+Objective Function = 1.122757e+01
+
+Running Case 0096
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/96.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.104769e+01
+AugIter 001    AugResid 4.773999e-04    Objective 1.104752e+01
+Writing restart file "./beta_restart/96.dat"
+Objective Function = 1.104752e+01
+
+Running Case 0097
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/97.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.072481e+01
+AugIter 001    AugResid 4.707210e-04    Objective 1.072462e+01
+Writing restart file "./beta_restart/97.dat"
+Objective Function = 1.072462e+01
+
+Running Case 0098
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/98.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.069285e+01
+AugIter 001    AugResid 4.756699e-04    Objective 1.069268e+01
+Writing restart file "./beta_restart/98.dat"
+Objective Function = 1.069268e+01
+
+Running Case 0099
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/99.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.077450e+01
+AugIter 001    AugResid 5.508836e-04    Objective 1.077440e+01
+Writing restart file "./beta_restart/99.dat"
+Objective Function = 1.077440e+01
+
+Running Case 0100
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/100.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 8.592593e+00
+AugIter 001    AugResid 6.279298e-05    Objective 8.592714e+00
+Writing restart file "./beta_restart/100.dat"
+Objective Function = 8.592714e+00
+
+Running Case 0101
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/101.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 5.776857e+00
+AugIter 001    AugResid 4.438889e-04    Objective 5.775598e+00
+Writing restart file "./beta_restart/101.dat"
+Objective Function = 5.775598e+00
+
+Running Case 0102
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/102.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 2.464846e+00
+AugIter 001    AugResid 4.455242e-04    Objective 2.463670e+00
+Writing restart file "./beta_restart/102.dat"
+Objective Function = 2.463670e+00
+
+Running Case 0103
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/103.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 3.338773e+00
+AugIter 001    AugResid 4.553159e-04    Objective 3.338340e+00
+Writing restart file "./beta_restart/103.dat"
+Objective Function = 3.338340e+00
+
+Running Case 0104
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/104.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 3.819629e+00
+AugIter 001    AugResid 4.996138e-04    Objective 3.819373e+00
+Writing restart file "./beta_restart/104.dat"
+Objective Function = 3.819373e+00
+
+Running Case 0105
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/105.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.694742e+00
+AugIter 001    AugResid 5.408774e-04    Objective 6.694538e+00
+Writing restart file "./beta_restart/105.dat"
+Objective Function = 6.694538e+00
+
+Running Case 0106
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/106.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.283009e+00
+AugIter 001    AugResid 5.737251e-04    Objective 6.282752e+00
+Writing restart file "./beta_restart/106.dat"
+Objective Function = 6.282752e+00
+
+Running Case 0107
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/107.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 7.295536e+00
+AugIter 001    AugResid 3.557083e-04    Objective 7.295368e+00
+Writing restart file "./beta_restart/107.dat"
+Objective Function = 7.295368e+00
+
+Running Case 0108
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/108.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 9.104479e+00
+AugIter 001    AugResid 3.710683e-04    Objective 9.104259e+00
+Writing restart file "./beta_restart/108.dat"
+Objective Function = 9.104259e+00
+
+Running Case 0109
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/109.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.011380e+00
+AugIter 001    AugResid 3.800670e-04    Objective 6.011262e+00
+Writing restart file "./beta_restart/109.dat"
+Objective Function = 6.011262e+00
+
+Running Case 0110
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/110.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 8.782065e+00
+AugIter 001    AugResid 2.860756e-04    Objective 8.782780e+00
+Writing restart file "./beta_restart/110.dat"
+Objective Function = 8.782780e+00
+
+Running Case 0111
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/111.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 6.653582e+00
+AugIter 001    AugResid 4.425591e-04    Objective 6.654464e+00
+Writing restart file "./beta_restart/111.dat"
+Objective Function = 6.654464e+00
+
+Running Case 0112
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/112.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.127049e+01
+AugIter 001    AugResid 3.671469e-04    Objective 1.127053e+01
+Writing restart file "./beta_restart/112.dat"
+Objective Function = 1.127053e+01
+
+Running Case 0113
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/113.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.048307e+01
+AugIter 001    AugResid 3.820954e-04    Objective 1.048282e+01
+Writing restart file "./beta_restart/113.dat"
+Objective Function = 1.048282e+01
+
+Running Case 0114
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/114.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 9.060544e+00
+AugIter 001    AugResid 4.238241e-04    Objective 9.060125e+00
+Writing restart file "./beta_restart/114.dat"
+Objective Function = 9.060125e+00
+
+Running Case 0115
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/115.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.087820e+01
+AugIter 001    AugResid 4.671375e-04    Objective 1.087762e+01
+Writing restart file "./beta_restart/115.dat"
+Objective Function = 1.087762e+01
+
+Running Case 0116
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/116.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.255458e+01
+AugIter 001    AugResid 5.076421e-04    Objective 1.255389e+01
+Writing restart file "./beta_restart/116.dat"
+Objective Function = 1.255389e+01
+
+Running Case 0117
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/117.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 9.028855e+00
+AugIter 001    AugResid 5.658165e-04    Objective 9.028173e+00
+Writing restart file "./beta_restart/117.dat"
+Objective Function = 9.028173e+00
+
+Running Case 0118
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/118.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.138690e+01
+AugIter 001    AugResid 5.967449e-04    Objective 1.138612e+01
+Writing restart file "./beta_restart/118.dat"
+Objective Function = 1.138612e+01
+
+Running Case 0119
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/119.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.109172e+01
+AugIter 001    AugResid 6.065417e-04    Objective 1.109092e+01
+Writing restart file "./beta_restart/119.dat"
+Objective Function = 1.109092e+01
+
+Running Case 0120
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/120.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.616732e+01
+AugIter 001    AugResid 1.918623e-04    Objective 1.616762e+01
+Writing restart file "./beta_restart/120.dat"
+Objective Function = 1.616762e+01
+
+Running Case 0121
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/121.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.589946e+01
+AugIter 001    AugResid 5.856602e-04    Objective 1.589941e+01
+Writing restart file "./beta_restart/121.dat"
+Objective Function = 1.589941e+01
+
+Running Case 0122
+-------------------
+Loading pre-calculated beta from restart file "./beta_restart/122.dat"
+AugIter 000    AugResid 0.000000e+00    Objective 1.437751e+01
+AugIter 001    AugResid 5.731420e-04    Objective 1.437714e+01
+Writing restart file "./beta_restart/122.dat"
+Objective Function = 1.437714e+01
